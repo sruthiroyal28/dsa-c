@@ -1,0 +1,9 @@
+100
+/   \
+2     50
+      / \ 
+     2   25
+        /  \
+        5   5
+        
+A binary tree is a tree that can only have max 2 children. 
